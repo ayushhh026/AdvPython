@@ -1,0 +1,2 @@
+from nameMAIN import *
+
