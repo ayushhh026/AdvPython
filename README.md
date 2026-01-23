@@ -43,3 +43,17 @@ It is designed for learning, practice, and revision.
 
 3. Run any file:
    python filename.py
+
+## 🎯 Purpose
+
+This repository is part of my learning journey to:
+- Strengthen Python fundamentals
+- Practice coding regularly
+- Build logic and problem-solving skills
+- Work on real projects
+
+## 🤝 Contributions
+Suggestions and improvements are welcome!
+
+## ⭐ Support
+If you find this repository useful, please give it a star.
