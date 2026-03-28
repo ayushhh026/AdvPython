@@ -38,7 +38,7 @@ It is designed for learning, practice, and revision.
    git clone https://github.com/ayushhh026/AdvPython.git
 
 2. Navigate to the folder:
-   cd AdvPython.git
+   cd AdvPython
 3. Run any file:
    python filename.py
 
